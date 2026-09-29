@@ -93,7 +93,7 @@ Em paralelo, iniciei a graduação em ADS e passei a desenvolver outros projetos
 - IA e Produtividade Pessoal no Serviço Público
 - Comunicação Profissional e Técnicas de Influência
 
-**Idiomas:** Português (nativo) · Espanhol (básico)
+**Idiomas:** Espanhol (básico)
 
 **Soft skills:** Comunicação · Proatividade · Organização · Autonomia · Adaptabilidade
 

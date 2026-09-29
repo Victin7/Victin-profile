@@ -1,274 +1,106 @@
-# 👨‍💻 Victor Sousa dos Anjos
-
-### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full-Stack
-
-Olá! Eu sou o Victor 👋
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor full-stack autodidata, com experiência prática em desenvolvimento web, banco de dados, inteligência artificial e resolução de problemas.
-
-Minha trajetória combina **tecnologia e experiência profissional administrativa**, o que me permite enxergar problemas do dia a dia e transformá-los em soluções digitais.
-
-Tenho interesse em desenvolvimento de sistemas, produtos digitais, inteligência artificial e experiência do usuário.
-
----
-
-## 🚀 Sobre mim
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho constantemente transformando conhecimentos teóricos em projetos práticos.
-
-Tenho experiência com:
-
-- 💻 Desenvolvimento de aplicações web
-- ⚛️ React e TypeScript
-- 🗄️ Supabase e bancos de dados
-- 🤖 Inteligência Artificial
-- 🧠 Engenharia de Prompt
-- 🎨 UI/UX e prototipagem
-- 🔀 TanStack Router & Query
-- 🌐 Desenvolvimento de produtos digitais
-
-Também possuo experiência profissional em rotinas administrativas, atendimento, organização de documentos e acompanhamento de demandas.
-
-Essa combinação entre **tecnologia, organização e resolução de problemas** influencia diretamente a forma como desenvolvo meus projetos.
-
----
-
-## 💼 Minha trajetória
-
-### 🛒 Jovem Aprendiz — Sonda Supermercados
-
-Comecei minha trajetória profissional como **Jovem Aprendiz**, desenvolvendo experiência em:
-
-- Atendimento ao público
-- Organização
-- Trabalho em equipe
-- Rotinas profissionais
-- Comunicação
-
-Essa experiência foi importante para desenvolver minhas primeiras habilidades profissionais.
-
----
-
-### 🏢 Administração — Condomínio Europa
-
-Posteriormente, passei a atuar na administração do **Condomínio Europa**, trabalhando com:
-
-- Organização de documentos
-- Atendimento aos moradores
-- Acompanhamento de demandas
-- Rotinas administrativas
-- Organização de processos
-
-Durante essa experiência, comecei a perceber oportunidades para utilizar tecnologia na resolução de problemas do cotidiano.
-
-Foi nesse contexto que surgiu a ideia do **Europa Manutenção**.
-
----
-
-## 🧑‍💻 Desenvolvimento
-
-Minha entrada mais profunda no desenvolvimento de software aconteceu através da prática e do estudo autodidata.
-
-Comecei a transformar problemas reais em aplicações e, paralelamente, iniciei minha graduação em **Análise e Desenvolvimento de Sistemas**.
-
-Hoje busco constantemente evoluir meus conhecimentos e transformar ideias em produtos funcionais.
-
----
-
-# 🚀 Projetos
-
-## 🏢 Europa Manutenção
-
-Sistema web desenvolvido para **digitalizar e organizar processos de manutenção predial**.
-
-O projeto nasceu a partir de uma necessidade real observada durante minha experiência profissional no Condomínio Europa.
-
-### Tecnologias
-
-- React
-- TypeScript
-- Supabase
-- Banco de Dados
-- UI/UX
-
-### Objetivos
-
-- Organizar manutenções
-- Centralizar informações
-- Acompanhar demandas
-- Facilitar o controle de processos
-- Transformar processos administrativos em fluxos digitais
-
----
-
-## 🏋️ BossFit AI
-
-Plataforma de fitness com recursos de **Inteligência Artificial**, desenvolvida como projeto para aprofundar meus conhecimentos em desenvolvimento web, banco de dados e IA.
-
-### Tecnologias
-
-- React
-- TypeScript
-- Supabase
-- Inteligência Artificial
-- UI/UX
-
-### Objetivos
-
-- Criar uma experiência digital voltada para fitness
-- Utilizar IA como recurso de personalização
-- Trabalhar integração entre frontend e backend
-- Desenvolver uma aplicação com foco em experiência do usuário
-
----
-
-# 🛠️ Hard Skills
-
-### Desenvolvimento
-
-- React
-- TypeScript
-- JavaScript
-- HTML
-- CSS
-
-### Backend & Banco de Dados
-
-- Supabase
-- Banco de Dados
-
-### Inteligência Artificial
-
-- Inteligência Artificial
-- Engenharia de Prompt
-- Aplicação de IA em desenvolvimento
-
-### Frontend & Arquitetura
-
-- TanStack Router
-- TanStack Query
-- Desenvolvimento de interfaces
-- UI/UX
-- Prototipagem
-
-### Ferramentas
-
-- Git
-- GitHub
-- VS Code
-- Figma
-
----
-
-# 🧠 Soft Skills
-
-- Comunicação
-- Proatividade
-- Organização
-- Autonomia
-- Adaptabilidade
-- Resolução de problemas
-- Pensamento analítico
-- Aprendizado autodidata
-
----
-
-# 🎓 Formação Acadêmica
-
-### Análise e Desenvolvimento de Sistemas
-
-**Em andamento**
-
-Graduação voltada para desenvolvimento de software, programação, banco de dados, engenharia de software e tecnologia.
-
----
-
-# 📚 Cursos
-
-Além da graduação, venho complementando minha formação através de cursos e estudos independentes.
-
-### Cursos realizados
-
-- Aprendizagem em Comércio de Bens e Turismo
-- Engenharia de Prompt e Fundamentos de IA
-- Comunicação Profissional e Técnicas de Influência
-- IA e Produtividade Pessoal no Serviço Público
-- Termo de Execução Descentralizada: Visão Geral e Atos Preparatórios
-- Novas Tecnologias para a Transformação Digital
-
----
-
-# 🌎 Idiomas
-
-**Espanhol:** Básico
-
----
-
-# 📈 Atualmente estudando
-
-Atualmente estou aprofundando meus conhecimentos em:
-
-- Desenvolvimento Web
-- React
-- TypeScript
-- Banco de Dados
-- Supabase
-- Inteligência Artificial
-- Engenharia de Prompt
-- UI/UX
-- Algoritmos
-- Programação
-- Engenharia de Software
-- Git e GitHub
-
----
-
-# 🎯 Objetivos
-
-Meu objetivo é continuar evoluindo como desenvolvedor e construir uma carreira na área de tecnologia.
-
-Busco transformar conhecimentos em **soluções reais**, desenvolver projetos cada vez mais completos e ampliar minha experiência em desenvolvimento de software.
-
-Tenho especial interesse em:
-
-- Desenvolvimento Full-Stack
-- Desenvolvimento Web
-- Inteligência Artificial
-- Produtos Digitais
-- Sistemas de gestão
-- Experiência do usuário
-
----
-
-# 📂 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 🏢 Europa Manutenção | Sistema de gestão de manutenção predial | React, TypeScript, Supabase |
-| 🏋️ BossFit AI | Plataforma fitness com Inteligência Artificial | React, TypeScript, Supabase |
-
----
-
-# 📫 Contato
-
-📍 São Paulo – SP
-
-📧 Email: victor.anjos1011@gmail.com
-
-💻 GitHub: Victin7
-
-🔗 LinkedIn: Victor Sousa dos Anjos
-
----
-
-# 💡 Filosofia
-
-> "Transformar problemas reais em soluções digitais."
-
-Meu objetivo não é apenas aprender tecnologia, mas entender **como utilizá-la para resolver problemas e criar soluções úteis**.
-
----
+<h1 align="center">Victor Sousa dos Anjos</h1>
 
 <p align="center">
-  Desenvolvido por <strong>Victor Sousa dos Anjos</strong>
+  <strong>Desenvolvedor Full-Stack</strong> · Estudante de Análise e Desenvolvimento de Sistemas
+  <br/>
+  Transformo problemas reais em soluções digitais.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-s-anjos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:victor.anjos1011@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <img src="https://img.shields.io/badge/São_Paulo-SP-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, SP"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Aberto_a-Oportunidades_de_estágio-success?style=flat-square" alt="Aberto a oportunidades de estágio"/>
+</p>
+
+---
+
+## Sobre mim
+
+Sou desenvolvedor full-stack autodidata e cursando **Análise e Desenvolvimento de Sistemas (UNICID)**. Meu diferencial é unir **visão de produto** e **experiência real em rotinas administrativas**: enxergo gargalos do dia a dia e os transformo em sistemas funcionais.
+
+Atualmente atuo na administração do Condomínio Europa, o que me deu contexto para criar soluções voltadas a processos reais, com foco em organização, usabilidade e resultado.
+
+**Áreas de interesse:** desenvolvimento web full-stack · produtos digitais · inteligência artificial aplicada · sistemas de gestão · UX
+
+---
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,supabase,git,github,vscode,figma&theme=dark" alt="Tecnologias"/>
+</p>
+
+| Área | Tecnologias |
+|---|---|
+| **Front-end** | React, TypeScript, JavaScript, HTML, CSS, shadcn/ui |
+| **Arquitetura e dados no cliente** | TanStack Router, TanStack Query |
+| **Back-end e banco de dados** | Supabase (PostgreSQL, Auth, Storage) |
+| **IA** | Engenharia de prompt, integração de IA em aplicações |
+| **Ferramentas** | Git, GitHub, VS Code, Figma, Lovable |
+
+---
+
+## Projetos em destaque
+
+### Europa Manutenção
+Sistema web para **digitalizar e organizar a gestão de manutenção predial**, criado a partir de uma necessidade real observada na administração do Condomínio Europa.
+
+- Centraliza informações e acompanha demandas de ponta a ponta
+- Transforma processos administrativos em fluxos digitais
+- **Stack:** React · TypeScript · Supabase
+
+<!-- Adicione aqui: [Repositório](link) · [Demo](link) -->
+
+### BossFit AI
+Plataforma de fitness com **IA como recurso de personalização**, desenvolvida para aprofundar integração entre front-end, back-end e experiência do usuário.
+
+- Coach com IA e acompanhamento de treino e nutrição
+- Foco em UX e integração completa entre camadas
+- **Stack:** React · TypeScript · Supabase · IA
+
+<!-- Adicione aqui: [Repositório](link) · [Demo](link) -->
+
+---
+
+## Trajetória
+
+| Período | Atuação |
+|---|---|
+| **Abr/2025 – atual** | **Administrador · Condomínio Europa** — atendimento a moradores, organização de documentos, acompanhamento de demandas e processos. Origem do projeto Europa Manutenção. |
+| **Anterior** | **Jovem Aprendiz · Sonda Supermercados** — atendimento ao público, trabalho em equipe e rotinas profissionais. |
+
+---
+
+## Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas** · UNICID · *em andamento*
+
+**Cursos complementares**
+- Engenharia de Prompt e Fundamentos de IA
+- Novas Tecnologias para a Transformação Digital
+- IA e Produtividade Pessoal no Serviço Público
+- Comunicação Profissional e Técnicas de Influência
+
+**Idiomas:** Português (nativo) · Espanhol (básico)
+
+---
+
+## Em estudo
+
+`Algoritmos` · `Engenharia de Software` · `Banco de Dados` · `Arquitetura Front-end` · `IA aplicada`
+
+---
+
+## Vamos conversar?
+
+Estou em busca de uma **oportunidade de estágio em desenvolvimento** para crescer junto a um time e contribuir com projetos reais.
+
+📧 [victor.anjos1011@gmail.com](mailto:victor.anjos1011@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/victor-s-anjos)
+
+<p align="center">
+  <sub>“Transformar problemas reais em soluções digitais.”</sub>
 </p>

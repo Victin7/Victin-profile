@@ -85,7 +85,7 @@ Plataforma de fitness com **IA como recurso de personalização**, desenvolvida 
 - IA e Produtividade Pessoal no Serviço Público
 - Comunicação Profissional e Técnicas de Influência
 
-**Idiomas:** Português (nativo) · Espanhol (básico)
+**Idiomas:** Espanhol (básico)
 
 ---
 

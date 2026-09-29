@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-s-anjos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:victor.anjos1011@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victor.anjos1011@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
   <img src="https://img.shields.io/badge/São_Paulo-SP-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, SP"/>
 </p>
 
@@ -99,7 +99,7 @@ Plataforma de fitness com **IA como recurso de personalização**, desenvolvida 
 
 Estou em busca de uma **oportunidade de estágio em desenvolvimento** para crescer junto a um time e contribuir com projetos reais.
 
-📧 [victor.anjos1011@gmail.com](mailto:victor.anjos1011@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/victor-s-anjos)
+📧 [victor.anjos1011@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=victor.anjos1011@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/victor-s-anjos)
 
 <p align="center">
   <sub>“Transformar problemas reais em soluções digitais.”</sub>

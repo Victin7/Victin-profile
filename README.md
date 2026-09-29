@@ -1,7 +1,7 @@
 <h1 align="center">Victor Sousa dos Anjos</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full-Stack</strong> · Estudante de Análise e Desenvolvimento de Sistemas
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> · Desenvolvedor Full-Stack
   <br/>
   Transformo problemas reais em soluções digitais.
 </p>
@@ -20,11 +20,13 @@
 
 ## Sobre mim
 
-Sou desenvolvedor full-stack autodidata e cursando **Análise e Desenvolvimento de Sistemas (UNICID)**. Meu diferencial é unir **visão de produto** e **experiência real em rotinas administrativas**: enxergo gargalos do dia a dia e os transformo em sistemas funcionais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor full-stack autodidata, com experiência prática em rotinas administrativas, atendimento e organização de processos.
 
-Atualmente atuo na administração do Condomínio Europa, o que me deu contexto para criar soluções voltadas a processos reais, com foco em organização, usabilidade e resultado.
+Tenho facilidade para compreender problemas e propor soluções de forma organizada e objetiva, habilidade que aplico tanto na rotina profissional quanto no desenvolvimento de aplicações web com **React, TypeScript e Supabase**.
 
-**Áreas de interesse:** desenvolvimento web full-stack · produtos digitais · inteligência artificial aplicada · sistemas de gestão · UX
+Venho explorando o uso de **inteligência artificial** como ferramenta de desenvolvimento e resolução de problemas, e busco constantemente transformar conhecimento teórico em soluções práticas.
+
+**Interesses:** desenvolvimento de sistemas · produtos digitais · inteligência artificial · experiência do usuário
 
 ---
 
@@ -36,30 +38,32 @@ Atualmente atuo na administração do Condomínio Europa, o que me deu contexto 
 
 | Área | Tecnologias |
 |---|---|
-| **Front-end** | React, TypeScript, JavaScript, HTML, CSS, shadcn/ui |
-| **Arquitetura e dados no cliente** | TanStack Router, TanStack Query |
-| **Back-end e banco de dados** | Supabase (PostgreSQL, Auth, Storage) |
-| **IA** | Engenharia de prompt, integração de IA em aplicações |
-| **Ferramentas** | Git, GitHub, VS Code, Figma, Lovable |
+| **Front-end** | React, TypeScript, JavaScript, HTML, CSS |
+| **Arquitetura front-end** | TanStack Router, TanStack Query |
+| **Back-end e dados** | Supabase, Banco de Dados |
+| **Inteligência Artificial** | Engenharia de Prompt, aplicação de IA no desenvolvimento |
+| **Design** | UI/UX, Prototipagem (Figma) |
+| **Ferramentas** | Git, GitHub, VS Code |
 
 ---
 
 ## Projetos em destaque
 
 ### Europa Manutenção
-Sistema web para **digitalizar e organizar a gestão de manutenção predial**, criado a partir de uma necessidade real observada na administração do Condomínio Europa.
+Sistema web para gestão de manutenção predial, nascido de uma necessidade real observada na administração do Condomínio Europa.
 
-- Centraliza informações e acompanha demandas de ponta a ponta
+- Organiza manutenções e centraliza informações
+- Acompanha demandas e facilita o controle de processos
 - Transforma processos administrativos em fluxos digitais
 - **Stack:** React · TypeScript · Supabase
 
 <!-- Adicione aqui: [Repositório](link) · [Demo](link) -->
 
 ### BossFit AI
-Plataforma de fitness com **IA como recurso de personalização**, desenvolvida para aprofundar integração entre front-end, back-end e experiência do usuário.
+Plataforma de fitness com recursos de inteligência artificial, criada para aprofundar meus conhecimentos em desenvolvimento web, banco de dados e IA.
 
-- Coach com IA e acompanhamento de treino e nutrição
-- Foco em UX e integração completa entre camadas
+- Usa IA como recurso de personalização
+- Integra front-end e back-end com foco em experiência do usuário
 - **Stack:** React · TypeScript · Supabase · IA
 
 <!-- Adicione aqui: [Repositório](link) · [Demo](link) -->
@@ -68,16 +72,20 @@ Plataforma de fitness com **IA como recurso de personalização**, desenvolvida 
 
 ## Trajetória
 
-| Período | Atuação |
-|---|---|
-| **Abr/2025 – atual** | **Administrador · Condomínio Europa** — atendimento a moradores, organização de documentos, acompanhamento de demandas e processos. Origem do projeto Europa Manutenção. |
-| **Anterior** | **Jovem Aprendiz · Sonda Supermercados** — atendimento ao público, trabalho em equipe e rotinas profissionais. |
+**Administração · Condomínio Europa**
+Responsável pela organização de documentos, atendimento aos moradores e acompanhamento de demandas administrativas. Foi nesse contexto que identifiquei oportunidades de aplicar tecnologia no dia a dia e criei o Europa Manutenção.
+
+**Jovem Aprendiz · Sonda Supermercados**
+Início da minha trajetória profissional, com bases em atendimento ao público, organização e trabalho em equipe.
+
+**Desenvolvimento e graduação**
+Em paralelo, iniciei a graduação em ADS e passei a desenvolver outros projetos, como o BossFit AI, aprofundando web, banco de dados e IA.
 
 ---
 
 ## Formação
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas** · UNICID · *em andamento*
+**Análise e Desenvolvimento de Sistemas** · *em andamento*
 
 **Cursos complementares**
 - Engenharia de Prompt e Fundamentos de IA
@@ -85,13 +93,9 @@ Plataforma de fitness com **IA como recurso de personalização**, desenvolvida 
 - IA e Produtividade Pessoal no Serviço Público
 - Comunicação Profissional e Técnicas de Influência
 
-**Idiomas:** Espanhol (básico)
+**Idiomas:** Português (nativo) · Espanhol (básico)
 
----
-
-## Em estudo
-
-`Algoritmos` · `Engenharia de Software` · `Banco de Dados` · `Arquitetura Front-end` · `IA aplicada`
+**Soft skills:** Comunicação · Proatividade · Organização · Autonomia · Adaptabilidade
 
 ---
 

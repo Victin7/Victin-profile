@@ -103,7 +103,7 @@ Em paralelo, iniciei a graduação em ADS e passei a desenvolver outros projetos
 
 Estou em busca de uma **oportunidade de estágio em desenvolvimento** para crescer junto a um time e contribuir com projetos reais.
 
-📧 [victor.anjos1011@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=victor.anjos1011@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/victor-s-anjos)
+📧 [victor.vitinho1011@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=victor.vitinho1011@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/victor-s-anjos)
 
 <p align="center">
   <sub>“Transformar problemas reais em soluções digitais.”</sub>

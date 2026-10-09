@@ -8,13 +8,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-s-anjos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victor.anjos1011@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victor.vitinho1011@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
   <img src="https://img.shields.io/badge/São_Paulo-SP-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, SP"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Aberto_a-Oportunidades_de_estágio-success?style=flat-square" alt="Aberto a oportunidades de estágio"/>
 </p>
+
+---
+
+## Portfólio interativo
+
+Meu portfólio 3D guiado pela rolagem: as 7 torres do Condomínio Europa (de Madri a Amsterdam), meus projetos, minha jornada e contato. O código está em [`portfólio.html`](portf%C3%B3lio.html), um único arquivo HTML com Three.js.
+
+<!-- Depois de publicar na Vercel, troque pelo link: [Ver portfólio](https://SEU-PROJETO.vercel.app) -->
 
 ---
 

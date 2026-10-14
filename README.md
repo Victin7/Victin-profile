@@ -1,110 +1,85 @@
 <h1 align="center">Victor Sousa dos Anjos</h1>
 
 <p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> · Desenvolvedor Full-Stack
+  <strong>Desenvolvedor Full-Stack</strong> · Estudante de Análise e Desenvolvimento de Sistemas (UNICID)
   <br/>
   Transformo problemas reais em soluções digitais.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-s-anjos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victor.anjos1011@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <a href="mailto:victor.vitinho1011@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
   <img src="https://img.shields.io/badge/São_Paulo-SP-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, SP"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aberto_a-Oportunidades_de_estágio-success?style=flat-square" alt="Aberto a oportunidades de estágio"/>
+  <img src="https://img.shields.io/badge/Aberto_a-estágio_em_desenvolvimento-success?style=flat-square" alt="Aberto a estágio em desenvolvimento"/>
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor full-stack autodidata, com experiência prática em rotinas administrativas, atendimento e organização de processos.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor full-stack autodidata. Trabalho na administração do Condomínio Europa, e foi lá que construí meu primeiro sistema usado de verdade: uma plataforma de gestão de manutenções que hoje organiza o dia a dia da equipe.
 
-Tenho facilidade para compreender problemas e propor soluções de forma organizada e objetiva, habilidade que aplico tanto na rotina profissional quanto no desenvolvimento de aplicações web com **React, TypeScript e Supabase**.
-
-Venho explorando o uso de **inteligência artificial** como ferramenta de desenvolvimento e resolução de problemas, e busco constantemente transformar conhecimento teórico em soluções práticas.
-
-**Interesses:** desenvolvimento de sistemas · produtos digitais · inteligência artificial · experiência do usuário
-
----
+Desenvolvo aplicações web com **React, TypeScript e Supabase**, e uso **inteligência artificial** como ferramenta de desenvolvimento e como recurso dentro dos produtos.
 
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,supabase,git,github,vscode,figma&theme=dark" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,supabase,postgres,firebase,vite,git,github,vscode,figma&theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Supabase, PostgreSQL, Firebase, Vite, Git, GitHub, VS Code, Figma"/>
 </p>
 
 | Área | Tecnologias |
 |---|---|
-| **Front-end** | React, TypeScript, JavaScript, HTML, CSS |
-| **Arquitetura front-end** | TanStack Router, TanStack Query |
-| **Back-end e dados** | Supabase, Banco de Dados |
-| **Inteligência Artificial** | Engenharia de Prompt, aplicação de IA no desenvolvimento |
-| **Design** | UI/UX, Prototipagem (Figma) |
-| **Ferramentas** | Git, GitHub, VS Code |
-
----
+| **Front-end** | React, TypeScript, JavaScript, Tailwind CSS, shadcn/ui |
+| **Arquitetura** | TanStack Start, TanStack Router, TanStack Query |
+| **Back-end e dados** | Supabase (PostgreSQL, Auth, RLS, Storage), modelagem de banco de dados |
+| **IA** | Engenharia de prompt, integração de LLMs em aplicações |
+| **Ferramentas** | Git, GitHub, VS Code, Figma, Lovable |
 
 ## Projetos em destaque
 
-### Europa Manutenção
-Sistema web para gestão de manutenção predial, nascido de uma necessidade real observada na administração do Condomínio Europa.
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🏢 **[Europa Manutenção](https://github.com/Victin7/europa-manutencao)** | Sistema de gestão de manutenções prediais usado na administração do Condomínio Europa. Controle de acesso por função, fluxo de aprovação, calendário, relatórios e segurança com RLS. | React · TypeScript · Supabase |
+| ✅ **[NEXO](https://github.com/Victin7/NEXO)** | Planejador diário com tarefas em linguagem natural, calendário, pomodoro, hábitos, metas e finanças. PWA offline com sincronização em tempo real e notificações push. | React · TanStack Start · Supabase |
+| 📦 **[StockWise](https://github.com/Victin7/Stockwise)** · [demo](https://victin7.github.io/Stockwise/) | SaaS de gestão de estoque para pequenas empresas: produtos, movimentações, fornecedores e pedidos de compra, com dashboard e testes automatizados. | React · TypeScript · Vite |
+| 🧠 **[LifeSync AI](https://github.com/Victin7/LIFESYNC-AI)** | Produtividade com IA: tarefas, hábitos, metas e humor, com rotina gerada por IA e sincronização com o Google Agenda. | React · Supabase · IA |
+| 🍽️ **[Palazio del Chef](https://github.com/Victin7/modelagem-dados)** | Projeto em grupo da disciplina de Modelagem de Banco de Dados: levantamento de requisitos, DER e dicionário de dados de um restaurante real. | Modelagem relacional |
 
-- Organiza manutenções e centraliza informações
-- Acompanha demandas e facilita o controle de processos
-- Transforma processos administrativos em fluxos digitais
-- **Stack:** React · TypeScript · Supabase
+<details>
+<summary><strong>Projetos menores e estudos</strong></summary>
+<br/>
 
-<!-- Adicione aqui: [Repositório](link) · [Demo](link) -->
+| Projeto | Descrição |
+|---|---|
+| **[Finanças Pro](https://github.com/Victin7/controle-gastos)** | Controle financeiro mensal com gráficos, metas e exportação para Excel (HTML, CSS e JavaScript) |
+| **[EvolveFit](https://github.com/Victin7/treino)** | Organizador de treinos com IMC, plano alimentar e histórico de evolução |
+| **[BossFit (versão web)](https://github.com/Victin7/fit-smart)** | Protótipo de coach fitness com login Firebase e gamificação, que deu origem ao BossFit AI |
 
-### BossFit AI
-Plataforma de fitness com recursos de inteligência artificial, criada para aprofundar meus conhecimentos em desenvolvimento web, banco de dados e IA.
-
-- Usa IA como recurso de personalização
-- Integra front-end e back-end com foco em experiência do usuário
-- **Stack:** React · TypeScript · Supabase · IA
-
-<!-- Adicione aqui: [Repositório](link) · [Demo](link) -->
-
----
+</details>
 
 ## Trajetória
 
-**Administração · Condomínio Europa**
-Responsável pela organização de documentos, atendimento aos moradores e acompanhamento de demandas administrativas. Foi nesse contexto que identifiquei oportunidades de aplicar tecnologia no dia a dia e criei o Europa Manutenção.
+**Administração · Condomínio Europa** — *abr/2025 – atual*
+Organização de documentos, atendimento aos moradores e acompanhamento de demandas. Identifiquei problemas na gestão das manutenções e desenvolvi o Europa Manutenção para resolvê-los.
 
 **Jovem Aprendiz · Sonda Supermercados**
-Início da minha trajetória profissional, com bases em atendimento ao público, organização e trabalho em equipe.
-
-**Desenvolvimento e graduação**
-Em paralelo, iniciei a graduação em ADS e passei a desenvolver outros projetos, como o BossFit AI, aprofundando web, banco de dados e IA.
-
----
+Início da trajetória profissional: atendimento ao público, organização e trabalho em equipe.
 
 ## Formação
 
-**Análise e Desenvolvimento de Sistemas** · *em andamento*
+**Análise e Desenvolvimento de Sistemas** · UNICID · *em andamento*
 
-**Cursos complementares**
-- Engenharia de Prompt e Fundamentos de IA
-- Novas Tecnologias para a Transformação Digital
-- IA e Produtividade Pessoal no Serviço Público
-- Comunicação Profissional e Técnicas de Influência
+**Cursos complementares:** Engenharia de Prompt e Fundamentos de IA · Novas Tecnologias para a Transformação Digital · IA e Produtividade Pessoal no Serviço Público · Comunicação Profissional e Técnicas de Influência
 
-**Idiomas:** Espanhol (básico)
-
-**Soft skills:** Comunicação · Proatividade · Organização · Autonomia · Adaptabilidade
+**Idiomas:** Português (nativo) · Espanhol (básico)
 
 ---
 
-## Vamos conversar?
-
-Estou em busca de uma **oportunidade de estágio em desenvolvimento** para crescer junto a um time e contribuir com projetos reais.
-
-📧 [victor.vitinho1011@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=victor.vitinho1011@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/victor-s-anjos)
-
 <p align="center">
-  <sub>“Transformar problemas reais em soluções digitais.”</sub>
+  Procurando uma <strong>oportunidade de estágio em desenvolvimento</strong>. Vamos conversar?
+  <br/>
+  📧 <a href="mailto:victor.vitinho1011@gmail.com">victor.vitinho1011@gmail.com</a> · 🔗 <a href="https://www.linkedin.com/in/victor-s-anjos">LinkedIn</a>
 </p>

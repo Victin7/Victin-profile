@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="248" viewBox="0 0 440 248">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F172A"/><stop offset="1" stop-color="#111a33"/></linearGradient>
+<radialGradient id="h" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#F472B6" stop-opacity=".28"/><stop offset="1" stop-color="#F472B6" stop-opacity="0"/></radialGradient></defs>
+<style>text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}</style>
+<rect x="1" y="1" width="438" height="246" rx="16" fill="url(#b)" stroke="#ffffff" stroke-opacity=".08"/>
+<rect x="1" y="1" width="438" height="246" rx="16" fill="url(#h)"/>
+<rect x="28" y="28" width="44" height="44" rx="12" fill="#F472B6" fill-opacity=".16" stroke="#F472B6" stroke-opacity=".5"/>
+<g transform="translate(50 50)" fill="none" stroke="#F472B6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M0 -13 L3 -3 L13 0 L3 3 L0 13 L-3 3 L-13 0 L-3 -3 Z"/></g>
+<text x="88" y="49" fill="#F8FAFC" font-size="21" font-weight="700">LifeSync AI</text>
+<text x="88" y="69" fill="#F472B6" font-size="12.5" font-weight="600" letter-spacing="1">PRODUTIVIDADE COM IA</text>
+<text x="28" y="122" fill="#94A3B8" font-size="15.5">Tarefas, hábitos, metas e humor em um só</text><text x="28" y="146" fill="#94A3B8" font-size="15.5">app; a IA monta a rotina e reorganiza o dia.</text><text x="28" y="170" fill="#94A3B8" font-size="15.5">Integração com o Google Agenda.</text>
+<rect x="28" y="196" width="59" height="26" rx="13" fill="#F472B6" fill-opacity=".14" stroke="#F472B6" stroke-opacity=".45"/><text x="58" y="213.5" text-anchor="middle" fill="#E2E8F0" font-size="12.5" font-weight="600">React</text><rect x="95.0" y="196" width="81" height="26" rx="13" fill="#F472B6" fill-opacity=".14" stroke="#F472B6" stroke-opacity=".45"/><text x="136" y="213.5" text-anchor="middle" fill="#E2E8F0" font-size="12.5" font-weight="600">Supabase</text><rect x="184.2" y="196" width="66" height="26" rx="13" fill="#F472B6" fill-opacity=".14" stroke="#F472B6" stroke-opacity=".45"/><text x="217" y="213.5" text-anchor="middle" fill="#E2E8F0" font-size="12.5" font-weight="600">Gemini</text><rect x="258.6" y="196" width="59" height="26" rx="13" fill="#F472B6" fill-opacity=".14" stroke="#F472B6" stroke-opacity=".45"/><text x="288" y="213.5" text-anchor="middle" fill="#E2E8F0" font-size="12.5" font-weight="600">OAuth</text>
+<g transform="translate(400 46)" fill="none" stroke="#64748B" stroke-width="2" stroke-linecap="round"><path d="M-6 6 L6 -6 M-3 -6 H6 V3"/></g>
+</svg>

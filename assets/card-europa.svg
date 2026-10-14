@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="248" viewBox="0 0 440 248">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F172A"/><stop offset="1" stop-color="#111a33"/></linearGradient>
+<radialGradient id="h" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#34D399" stop-opacity=".28"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></radialGradient></defs>
+<style>text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}</style>
+<rect x="1" y="1" width="438" height="246" rx="16" fill="url(#b)" stroke="#ffffff" stroke-opacity=".08"/>
+<rect x="1" y="1" width="438" height="246" rx="16" fill="url(#h)"/>
+<rect x="28" y="28" width="44" height="44" rx="12" fill="#34D399" fill-opacity=".16" stroke="#34D399" stroke-opacity=".5"/>
+<g transform="translate(50 50)" fill="none" stroke="#34D399" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M-10 12 V-12 H6 V12 M6 -2 H12 V12 M-14 12 H14 M-5 -6 h2 M1 -6 h2 M-5 0 h2 M1 0 h2 M-5 6 h2 M1 6 h2"/></g>
+<text x="88" y="49" fill="#F8FAFC" font-size="21" font-weight="700">Europa Manutenção</text>
+<text x="88" y="69" fill="#34D399" font-size="12.5" font-weight="600" letter-spacing="1">SISTEMA EM USO REAL</text>
+<text x="28" y="122" fill="#94A3B8" font-size="15.5">Gestão de manutenções do Condomínio Europa:</text><text x="28" y="146" fill="#94A3B8" font-size="15.5">perfis com permissões, fluxo de aprovação,</text><text x="28" y="170" fill="#94A3B8" font-size="15.5">calendário, relatórios e segurança com RLS.</text>
+<rect x="28" y="196" width="59" height="26" rx="13" fill="#34D399" fill-opacity=".14" stroke="#34D399" stroke-opacity=".45"/><text x="58" y="213.5" text-anchor="middle" fill="#E2E8F0" font-size="12.5" font-weight="600">React</text><rect x="95.0" y="196" width="96" height="26" rx="13" fill="#34D399" fill-opacity=".14" stroke="#34D399" stroke-opacity=".45"/><text x="143" y="213.5" text-anchor="middle" fill="#E2E8F0" font-size="12.5" font-weight="600">TypeScript</text><rect x="199.0" y="196" width="81" height="26" rx="13" fill="#34D399" fill-opacity=".14" stroke="#34D399" stroke-opacity=".45"/><text x="240" y="213.5" text-anchor="middle" fill="#E2E8F0" font-size="12.5" font-weight="600">Supabase</text><rect x="288.2" y="196" width="44" height="26" rx="13" fill="#34D399" fill-opacity=".14" stroke="#34D399" stroke-opacity=".45"/><text x="310" y="213.5" text-anchor="middle" fill="#E2E8F0" font-size="12.5" font-weight="600">RLS</text>
+<g transform="translate(400 46)" fill="none" stroke="#64748B" stroke-width="2" stroke-linecap="round"><path d="M-6 6 L6 -6 M-3 -6 H6 V3"/></g>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111a33"/></linearGradient>
+  <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#818CF8"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+  <radialGradient id="g1" cx="0.85" cy="0.1" r="0.6"><stop offset="0" stop-color="#6366F1" stop-opacity=".35"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2" cx="0.1" cy="1" r="0.6"><stop offset="0" stop-color="#10B981" stop-opacity=".22"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".04"/></pattern>
+  <clipPath id="r"><rect width="1200" height="320" rx="20"/></clipPath>
+</defs>
+<style>
+  .t{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif} .m{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+  @keyframes blink{50%{opacity:0}}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+  @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .reveal{animation:fade .9s ease-out both}
+  .d1{animation-delay:.15s} .d2{animation-delay:.3s}
+  .cursor{animation:blink 1s step-end infinite}
+  .orb{animation:float 6s ease-in-out infinite}
+</style>
+<g clip-path="url(#r)">
+  <rect width="1200" height="320" fill="url(#bg)"/><rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#g1)"/><rect width="1200" height="320" fill="url(#g2)"/>
+  <rect y="316" width="1200" height="4" fill="url(#acc)"/>
+</g>
+<g class="t">
+  <text class="reveal" x="72" y="92" fill="#94A3B8" font-size="18" letter-spacing="3">OLÁ, EU SOU</text>
+  <text class="reveal d1" x="70" y="152" fill="#F8FAFC" font-size="54" font-weight="700">Victor Anjos</text>
+  <text class="reveal d2" x="72" y="196" font-size="24" font-weight="600" fill="url(#acc)">Desenvolvedor Full-Stack · React · TypeScript · Supabase</text>
+</g>
+<defs><clipPath id="typeclip"><rect x="72" y="222" width="0" height="40"><animate attributeName="width" from="0" to="620" begin="0.9s" dur="2.6s" fill="freeze" calcMode="discrete" values="0;13;27;40;54;67;81;94;108;121;135;148;162;175;189;202;216;229;243;256;270;283;297;310;323;337;350;364;377;391;404;418;431;445;458;472;485;499;512;526;539;553;566;580;593;607;620"/></rect></clipPath></defs>
+<g class="m" font-size="18">
+  <text x="72" y="250" clip-path="url(#typeclip)"><tspan fill="#34D399">❯</tspan><tspan fill="#CBD5E1"> transformando problemas reais em soluções digitais</tspan></text>
+</g>
+<g class="orb" transform="translate(0,0)">
+  <g transform="translate(960 160)">
+    <circle r="92" fill="none" stroke="url(#acc)" stroke-width="2" stroke-opacity=".7"/>
+    <circle r="66" fill="none" stroke="#ffffff" stroke-opacity=".08" stroke-dasharray="4 8"/>
+    <g fill="none" stroke="#E2E8F0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-30 -22 L-54 0 L-30 22"/><path d="M30 -22 L54 0 L30 22"/><path d="M10 -34 L-10 34" stroke="url(#acc)"/>
+    </g>
+    <circle cx="92" cy="0" r="6" fill="#34D399"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="-66" cy="0" r="4" fill="#818CF8"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/></circle>
+  </g>
+</g>
+</svg>
